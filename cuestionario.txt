@@ -1,1 +1,26 @@
-hola
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8"
+    title>carlos edmundo figueroa juarez y josue mondragon fernandez
+</head>
+
+<body>
+    <br>
+    1°- ¿que es internet?
+    <br>
+    es lo que ahora es la vida de cada uno y alamcenamiento mundial que si se cae se pierde todo
+    <br>
+    3°-¿como se organiza el internet?
+    <br>
+    se organiza mediante la direccion ip depende de donde este contectada la red de la computadora, y posterior a eso la DNS pasa el ip a un dominio web
+    <br>
+    5°-Describe los protocolos que existen en internet, en específico HTTP y HTML
+    <br>
+    http es lo que hace que te puedas ir a una pagina ya que es un hipertexto (una palabra que esta programada para llevarte alguna parte de la web), html es un lenguaje de programacion
+    <br>
+    7°-En dos párrafos cuéntanos lo que aprendiste sobre cómo protegerte de los criminales en internet.
+    <br>
+    la manera de defenderte de los que roban cosas en paginas web o cosas asi es teniendo la ayuda de google que guarde tus contraseñas, poniendo diferentes caracteres como mayusculas en diferentes partes de la contraseña si no te acuerdas google las puede guardar, para proteger en el lugar que estas pones un VPN para que engañe a las personas que intenten saber donde estas y un antivirus 
+</body>
+</html>
